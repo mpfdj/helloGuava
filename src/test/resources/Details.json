@@ -1,0 +1,111 @@
+{
+  "_links":{
+    "self":{
+      "href":"http://localhost:8087/api/content/details/products/91970",
+      "hreflang":"nl-NL"
+    },
+    "callToAction":{
+      "href":"#/etalage/osr",
+      "title":"Direct openen",
+      "hreflang":"nl-NL"
+    },
+    "image":{
+      "href":"assets/images/product-card-orangesavings.png",
+      "hreflang":"nl-NL"
+    },
+    "productTaxonomy":{
+      "href":"http://localhost:8087/api/content/details/products?taxonomy_path=%2FProducts%2FParticulier%2FSparen%2FOranje+Spaarrekening",
+      "hreflang":"nl-NL"
+    }
+  },
+  "detailType":"PRODUCT_DETAIL",
+  "productCompare":{
+    "title":"Vergelijken",
+    "subTitle":"subtitle_MS",
+    "_links":{
+      "image":{
+        "href":"assets/images/product-card-orangesavings.png"
+      },
+      "externalLink":{
+        "href":"externalLink_MS",
+        "title":"link_MS"
+      }
+    },
+    "body":"body_MS"
+  },
+  "productConditions":{
+    "title":"Dit zijn de voorwaarden",
+    "body":"Lees wat jij van ons mag verwachten en wij van jou.",
+    "_links":{
+      "externalLinks":[
+        {
+          "href":"https://www.ing.nl/media/ING_Voorwaarden-spaarrekening-voor-Unicef_tcm162-54944.pdf",
+          "title":"Bekijk de voorwaarden"
+        }
+      ]
+    }
+  },
+  "productConditionsUsp":{
+    "title":"Zo werkt rente berekenen",
+    "subTitle":"sub_MS",
+    "_links":{
+      "externalLink":{
+        "href":"UspExternalLinkText",
+        "title":"UspLinkText"
+      }
+    },
+    "conditionUsps":[
+      {
+        "icon":"ing:calendar-2",
+        "condition":"We berekenen de rente van 1 december tot en met 30 november"
+      },
+      {
+        "icon":"ing:pig",
+        "condition":"Ieder jaar op 1 december ontvang je de rente op je Oranje Spaarrekening"
+      },
+      {
+        "icon":"ing:wealth-increase",
+        "condition":"Je krijgt rente over een spaartegoed van maximaal €1.000.000"
+      }
+    ]
+  },
+  "productDescription":{
+    "title":"Zo maak je sparen makkelijk",
+    "body":"De Oranje spaarrekening werkt simpel: hoe hoger je spaarsaldo, hoe hoger je rente. Daar hoef je niks voor te doen. Alleen sparen. Dat maakt sparen wel heel verleidelijk. En makkelijk."
+  },
+  "productExtendedInfo":{
+    "_links":{
+      "image":{
+        "href":"assets/images/product-card-orangesavings.png"
+      }
+    },
+    "title":"Jij stelt je spaardoel, wij helpen je",
+    "subTitle":"Een spaardoel spaart sneller",
+    "image":"assets/images/product-card-orangesavings.png"
+  },
+  "productId":"523",
+  "productInterest":{
+    "interestUsps":[
+      {
+        "interest":"0,30%",
+        "interestInfo":"Tot € 25.000"
+      },
+      {
+        "interest":"0,40%",
+        "interestInfo":"Van € 25.000 tot € 75.000"
+      },
+      {
+        "interest":"0,50%",
+        "interestInfo":"Van € 75.000 tot € 1.000.000"
+      }
+    ],
+    "microCopy":"Tarieven per 1 september 2016. Maximaal rentegevend tegoed is € 1.000.000. De rentepercentages zijn variabel en op jaarbasis."
+  },
+  "subTitle":"Meerdere doelen op 1 spaarrekening",
+  "title":"Oranje Spaarrekening",
+  "uniqueSellingPoints":[
+    "Eén rekening, verschillende spaarpotjes",
+    "Een variabele rente van 0,25% tot 0,40% op jaarbasis",
+    "Geen minimum inlegbedrag"
+  ]
+}
